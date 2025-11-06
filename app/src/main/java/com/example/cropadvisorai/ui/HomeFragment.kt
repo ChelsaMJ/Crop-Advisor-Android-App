@@ -40,7 +40,7 @@ class HomeFragment : Fragment() {
     // ======== API KEY (set here for now) ========
     // Replace with BuildConfig.AI_API_KEY or other safe retrieval for production.
     // You said "i will give api key again" — put it here as a string, or set it to "" to disable.
-    private val apiKeyForThisRun: String = "AIzaSyC9Nq-PRx4pmdau5B_gREf4L6l9-q6C0Q4" // <-- put your API key here, or leave blank to test UI only
+    private val apiKeyForThisRun: String = "" // <-- put your API key here, or leave blank to test UI only
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
