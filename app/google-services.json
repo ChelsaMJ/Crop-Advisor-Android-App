@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7385647033",
+    "project_id": "cropadvisorai",
+    "storage_bucket": "cropadvisorai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7385647033:android:7b259b97b9e27edb11d868",
+        "android_client_info": {
+          "package_name": "com.example.cropadvisorai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUGSe22aErU5o27wO93LUyrCh2Peq-SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
