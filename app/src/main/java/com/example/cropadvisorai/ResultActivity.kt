@@ -2,6 +2,8 @@ package com.example.cropadvisorai
 
 import android.os.Bundle
 import android.util.Log
+import android.view.View
+import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
@@ -19,6 +21,7 @@ import java.util.concurrent.TimeUnit
 class ResultActivity : AppCompatActivity() {
 
     private lateinit var txtSummary: TextView
+    private lateinit var progressBar: ProgressBar
     private val TAG = "ResultActivity"
 
     // If not passed via intent, this default can be blank. Prefer passing the key from HomeFragment or using BuildConfig.
@@ -29,6 +32,8 @@ class ResultActivity : AppCompatActivity() {
         setContentView(R.layout.activity_result)
 
         txtSummary = findViewById(R.id.txtSummary)
+        progressBar = findViewById(R.id.progressBar)
+
         val inputSummary = intent.getStringExtra("inputSummary") ?: "No input data provided."
         apiKey = intent.getStringExtra("apiKey") ?: ""
 
@@ -39,14 +44,19 @@ class ResultActivity : AppCompatActivity() {
                 txtSummary.text = "API key missing. The request cannot be sent."
                 Toast.makeText(this, "API key not provided. Check HomeFragment.", Toast.LENGTH_LONG).show()
             } else {
+                // show progress and kick off the AI call
+                progressBar.visibility = View.VISIBLE
                 getAiRecommendation(inputSummary)
             }
         }
     }
 
     private fun getAiRecommendation(inputSummary: String) {
-        val systemInstruction = "Act as a leading, experienced agricultural scientist and provide precise crop advice. You MUST recommend the SINGLE BEST CROP and provide a brief, professional justification for the recommendation based ONLY on the provided soil and climate data."
-        val userPrompt = "Based on the following conditions, recommend the best single crop and justify your choice. Return JSON with keys: recommendedCrop, justification, alertLevel.\n\n$inputSummary"
+        val systemInstruction =
+            "Act as a leading, experienced agricultural scientist and provide precise crop advice. You MUST recommend the SINGLE BEST CROP and provide a brief, professional justification for the recommendation based ONLY on the provided soil and climate data."
+
+        val userPrompt =
+            "Based on the following conditions, recommend the best single crop and justify your choice. Return JSON with keys: recommendedCrop, justification, alertLevel.\n\n$inputSummary"
 
         // Build payload with proper arrays for `contents` and `parts`
         val contentsArray = JSONArray()
@@ -72,12 +82,22 @@ class ResultActivity : AppCompatActivity() {
                 val responseJson = withContext(Dispatchers.IO) {
                     performApiCall(payload.toString())
                 }
-                processAiResponse(responseJson)
+                // process response on main thread
+                withContext(Dispatchers.Main) {
+                    processAiResponse(responseJson)
+                }
             } catch (e: Exception) {
                 Log.e(TAG, "AI call failed", e)
                 withContext(Dispatchers.Main) {
-                    txtSummary.text = "❌ AI Analysis Failed: ${e.message}. Ensure network connection and API key are valid."
-                    Toast.makeText(this@ResultActivity, "API Error: ${e.message}", Toast.LENGTH_LONG).show()
+                    txtSummary.text =
+                        "❌ AI Analysis Failed: ${e.message}. Ensure network connection and API key are valid."
+                    Toast.makeText(this@ResultActivity, "API Error: ${e.message}", Toast.LENGTH_LONG)
+                        .show()
+                }
+            } finally {
+                // Always hide progress when done (success or failure)
+                withContext(Dispatchers.Main) {
+                    progressBar.visibility = View.GONE
                 }
             }
         }
@@ -85,7 +105,8 @@ class ResultActivity : AppCompatActivity() {
 
     private fun performApiCall(payload: String): JSONObject {
         // Use a reasonable timeout
-        val apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$apiKey"
+        val apiUrl =
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$apiKey"
         val url = URL(apiUrl)
         val connection = (url.openConnection() as HttpURLConnection).apply {
             requestMethod = "POST"
@@ -107,7 +128,8 @@ class ResultActivity : AppCompatActivity() {
             val respText = if (responseCode in 200..299) {
                 connection.inputStream.bufferedReader().use { it.readText() }
             } else {
-                val err = connection.errorStream?.bufferedReader()?.use { it.readText() } ?: "Unknown error body"
+                val err =
+                    connection.errorStream?.bufferedReader()?.use { it.readText() } ?: "Unknown error body"
                 throw Exception("API returned code $responseCode: $err")
             }
             // Convert to JSONObject safely
@@ -141,8 +163,10 @@ class ResultActivity : AppCompatActivity() {
             var alert: String
             try {
                 val parsed = JSONObject(rawText)
-                recommendedCrop = parsed.optString("recommendedCrop", parsed.optString("crop", "Unknown"))
-                justification = parsed.optString("justification", parsed.optString("reason", rawText))
+                recommendedCrop =
+                    parsed.optString("recommendedCrop", parsed.optString("crop", "Unknown"))
+                justification =
+                    parsed.optString("justification", parsed.optString("reason", rawText))
                 alert = parsed.optString("alertLevel", parsed.optString("risk", "Unknown"))
             } catch (je: Exception) {
                 // If not JSON, present rawText as justification and unknown crop
@@ -151,9 +175,9 @@ class ResultActivity : AppCompatActivity() {
                 alert = "Unknown"
             }
 
-            runOnUiThread {
-                txtSummary.text = """
-                    ✅ AI Recommendation Complete!
+            // Update UI (already on Main because caller used withContext)
+            txtSummary.text = """
+                    ⇨ AI Recommendation Complete!
 
                     Best Crop: $recommendedCrop
                     Risk Level: $alert
@@ -161,11 +185,8 @@ class ResultActivity : AppCompatActivity() {
                     Justification:
                     $justification
                 """.trimIndent()
-            }
         } catch (e: Exception) {
-            runOnUiThread {
-                txtSummary.text = "Error processing AI response: ${e.message}"
-            }
+            txtSummary.text = "Error processing AI response: ${e.message}"
         }
     }
 }

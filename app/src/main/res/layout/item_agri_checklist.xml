@@ -8,6 +8,7 @@
     android:layout_marginHorizontal="4dp"
     android:padding="12dp"
     android:clickable="true"
+    android:backgroundTint="@color/green_200"
     android:focusable="true"
     app:cardElevation="2dp">
 
