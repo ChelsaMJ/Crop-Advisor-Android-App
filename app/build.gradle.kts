@@ -1,7 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    // IMPORTANT: Add the KAPT plugin for future Room database integration (Unit IV)
     kotlin("kapt")
     alias(libs.plugins.google.gms.google.services)
 }
@@ -64,10 +63,6 @@ dependencies {
 
 
 
-    // --- Syllabus Requirement: Room (Unit IV - Placeholder for future implementation) ---
-    // implementation("androidx.room:room-runtime:2.6.0")
-    // kapt("androidx.room:room-compiler:2.6.0")
-    // implementation("androidx.room:room-ktx:2.6.0")
 
     // --- Testing ---
     testImplementation(libs.junit)
