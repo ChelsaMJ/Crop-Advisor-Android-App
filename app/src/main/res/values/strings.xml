@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">CropAdvisorAI</string>
     <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_signed_in">Not signed in</string>
+    <string name="no_name">No name available</string>
+
+    <!-- optional -->
+    <string name="logout">Log out</string>
+    <string name="sign_in">Sign in / Sign up</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

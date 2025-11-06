@@ -1,45 +1,55 @@
-com.example.cropadvisorai.app-lifecycle-livedata-2.6.2-0 C:\Users\CHELSA\.gradle\caches\8.13\transforms\01d5159b31d05ad806f63b5590acd630\transformed\lifecycle-livedata-2.6.2\res
-com.example.cropadvisorai.app-activity-1.11.0-1 C:\Users\CHELSA\.gradle\caches\8.13\transforms\0b0fe4097707e620e7f748c6af8826ae\transformed\activity-1.11.0\res
-com.example.cropadvisorai.app-fragment-ktx-1.6.2-2 C:\Users\CHELSA\.gradle\caches\8.13\transforms\17ef49de859cc030fcc87215ae8e1622\transformed\fragment-ktx-1.6.2\res
-com.example.cropadvisorai.app-dynamicanimation-1.1.0-3 C:\Users\CHELSA\.gradle\caches\8.13\transforms\19e169b7025331df55446548c75014d7\transformed\dynamicanimation-1.1.0\res
-com.example.cropadvisorai.app-coordinatorlayout-1.1.0-4 C:\Users\CHELSA\.gradle\caches\8.13\transforms\1a24c271c55a20ecf66dfcf8c0b29566\transformed\coordinatorlayout-1.1.0\res
-com.example.cropadvisorai.app-lifecycle-viewmodel-savedstate-2.6.2-5 C:\Users\CHELSA\.gradle\caches\8.13\transforms\244defba95c998e82eb5bf678f1a2c09\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
-com.example.cropadvisorai.app-drawerlayout-1.1.1-6 C:\Users\CHELSA\.gradle\caches\8.13\transforms\3454cc694d424fa809d5be968effad78\transformed\drawerlayout-1.1.1\res
-com.example.cropadvisorai.app-core-1.17.0-7 C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\res
-com.example.cropadvisorai.app-startup-runtime-1.1.1-8 C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\res
-com.example.cropadvisorai.app-tracing-1.2.0-9 C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f301c740b9818b299a9a461c2ad38c4\transformed\tracing-1.2.0\res
-com.example.cropadvisorai.app-lifecycle-livedata-core-ktx-2.6.2-10 C:\Users\CHELSA\.gradle\caches\8.13\transforms\41dadd743ed5d85b9bf24f12d08d9376\transformed\lifecycle-livedata-core-ktx-2.6.2\res
-com.example.cropadvisorai.app-appcompat-1.7.1-11 C:\Users\CHELSA\.gradle\caches\8.13\transforms\4bf89d69f8c5c780b0552f0e17d90af2\transformed\appcompat-1.7.1\res
-com.example.cropadvisorai.app-lifecycle-livedata-core-2.6.2-12 C:\Users\CHELSA\.gradle\caches\8.13\transforms\57581cf12615cf33458a8231b2bec4c3\transformed\lifecycle-livedata-core-2.6.2\res
-com.example.cropadvisorai.app-cardview-1.0.0-13 C:\Users\CHELSA\.gradle\caches\8.13\transforms\59138d1aef44a1da4905b0604187bc00\transformed\cardview-1.0.0\res
-com.example.cropadvisorai.app-savedstate-1.2.1-14 C:\Users\CHELSA\.gradle\caches\8.13\transforms\5e6a5604439cb2ea4ef2cae4aa9d9438\transformed\savedstate-1.2.1\res
-com.example.cropadvisorai.app-lifecycle-viewmodel-2.6.2-15 C:\Users\CHELSA\.gradle\caches\8.13\transforms\600876816feffb3751309545a8ea69b3\transformed\lifecycle-viewmodel-2.6.2\res
-com.example.cropadvisorai.app-lifecycle-runtime-2.6.2-16 C:\Users\CHELSA\.gradle\caches\8.13\transforms\a3685d23b4cdc091e31409478c15c33a\transformed\lifecycle-runtime-2.6.2\res
-com.example.cropadvisorai.app-annotation-experimental-1.4.1-17 C:\Users\CHELSA\.gradle\caches\8.13\transforms\b0c3ea8f4b378585d52e158f63cefabd\transformed\annotation-experimental-1.4.1\res
-com.example.cropadvisorai.app-profileinstaller-1.4.0-18 C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\res
-com.example.cropadvisorai.app-emoji2-views-helper-1.3.0-19 C:\Users\CHELSA\.gradle\caches\8.13\transforms\b85b9cb5a9d36009ce7c1698c960cbe1\transformed\emoji2-views-helper-1.3.0\res
-com.example.cropadvisorai.app-activity-ktx-1.11.0-20 C:\Users\CHELSA\.gradle\caches\8.13\transforms\b89ba4c7592faa759a49b9fa24bc2a34\transformed\activity-ktx-1.11.0\res
-com.example.cropadvisorai.app-material-1.13.0-21 C:\Users\CHELSA\.gradle\caches\8.13\transforms\beeb14c4fc2938204b4b1c2d3f684b77\transformed\material-1.13.0\res
-com.example.cropadvisorai.app-emoji2-1.3.0-22 C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\res
-com.example.cropadvisorai.app-recyclerview-1.2.1-23 C:\Users\CHELSA\.gradle\caches\8.13\transforms\cafa93d4006c4654d8c034a8b72180ef\transformed\recyclerview-1.2.1\res
-com.example.cropadvisorai.app-core-ktx-1.17.0-24 C:\Users\CHELSA\.gradle\caches\8.13\transforms\cd5d8092e9ec614dbf328cd7b31c731d\transformed\core-ktx-1.17.0\res
-com.example.cropadvisorai.app-core-runtime-2.2.0-25 C:\Users\CHELSA\.gradle\caches\8.13\transforms\d653825f760a2470b9d2df343baa7516\transformed\core-runtime-2.2.0\res
-com.example.cropadvisorai.app-lifecycle-viewmodel-ktx-2.6.2-26 C:\Users\CHELSA\.gradle\caches\8.13\transforms\d70a1a43cb8ff85494c3ad248374125b\transformed\lifecycle-viewmodel-ktx-2.6.2\res
-com.example.cropadvisorai.app-constraintlayout-2.2.1-27 C:\Users\CHELSA\.gradle\caches\8.13\transforms\d74e46f4f94c76314d3152cb7fccaa3c\transformed\constraintlayout-2.2.1\res
-com.example.cropadvisorai.app-graphics-shapes-release-28 C:\Users\CHELSA\.gradle\caches\8.13\transforms\d760f29633c83115000948ffbbbe1c94\transformed\graphics-shapes-release\res
-com.example.cropadvisorai.app-lifecycle-process-2.6.2-29 C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\res
-com.example.cropadvisorai.app-transition-1.5.0-30 C:\Users\CHELSA\.gradle\caches\8.13\transforms\e245ea1eb2e6dec1065f10ad0f2dd955\transformed\transition-1.5.0\res
-com.example.cropadvisorai.app-viewpager2-1.0.0-31 C:\Users\CHELSA\.gradle\caches\8.13\transforms\e9f973cf059dc1951a8b036b98021379\transformed\viewpager2-1.0.0\res
-com.example.cropadvisorai.app-savedstate-ktx-1.2.1-32 C:\Users\CHELSA\.gradle\caches\8.13\transforms\ea0a0ef7fa5859970c72eb404b78a025\transformed\savedstate-ktx-1.2.1\res
-com.example.cropadvisorai.app-lifecycle-runtime-ktx-2.6.2-33 C:\Users\CHELSA\.gradle\caches\8.13\transforms\f72f29b2fcfb246a07089156df974b1e\transformed\lifecycle-runtime-ktx-2.6.2\res
-com.example.cropadvisorai.app-core-viewtree-1.0.0-34 C:\Users\CHELSA\.gradle\caches\8.13\transforms\fb31f5878144cc730529c68ca3625605\transformed\core-viewtree-1.0.0\res
-com.example.cropadvisorai.app-fragment-1.6.2-35 C:\Users\CHELSA\.gradle\caches\8.13\transforms\ff4a94234ade456d0d32b91d81593965\transformed\fragment-1.6.2\res
-com.example.cropadvisorai.app-appcompat-resources-1.7.1-36 C:\Users\CHELSA\.gradle\caches\8.13\transforms\ffc93ec422c5f71378bae0324a72d9ab\transformed\appcompat-resources-1.7.1\res
-com.example.cropadvisorai.app-pngs-37 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\generated\res\pngs\debug
-com.example.cropadvisorai.app-resValues-38 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\generated\res\resValues\debug
-com.example.cropadvisorai.app-updated_navigation_xml-39 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\generated\updated_navigation_xml\debug
-com.example.cropadvisorai.app-packageDebugResources-40 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.cropadvisorai.app-packageDebugResources-41 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.cropadvisorai.app-debug-42 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.cropadvisorai.app-debug-43 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\debug\res
-com.example.cropadvisorai.app-main-44 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\res
+com.example.cropadvisorai.app-pngs-0 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\generated\res\pngs\debug
+com.example.cropadvisorai.app-res-1 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\generated\res\processDebugGoogleServices
+com.example.cropadvisorai.app-resValues-2 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\generated\res\resValues\debug
+com.example.cropadvisorai.app-updated_navigation_xml-3 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\generated\updated_navigation_xml\debug
+com.example.cropadvisorai.app-packageDebugResources-4 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.cropadvisorai.app-packageDebugResources-5 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.cropadvisorai.app-debug-6 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.cropadvisorai.app-debug-7 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\debug\res
+com.example.cropadvisorai.app-main-8 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\res
+com.example.cropadvisorai.app-dynamicanimation-1.1.0-9 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\02f76573a9a109d2fe7c554de10648a0\transformed\dynamicanimation-1.1.0\res
+com.example.cropadvisorai.app-lifecycle-livedata-core-2.6.2-10 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0470ae57e927c1bb2604ab77da82ca2e\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.cropadvisorai.app-emoji2-1.3.0-11 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\res
+com.example.cropadvisorai.app-lifecycle-livedata-2.6.2-12 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0bb48f3fb4804821e866d63020f192d6\transformed\lifecycle-livedata-2.6.2\res
+com.example.cropadvisorai.app-lifecycle-viewmodel-2.6.2-13 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1636526c693545468f8237492965a6a7\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.cropadvisorai.app-transition-1.5.0-14 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\16df60393f2524f8b85bcc26fb302916\transformed\transition-1.5.0\res
+com.example.cropadvisorai.app-drawerlayout-1.1.1-15 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1eaf86cb0ab3d96d62685739f36f9c14\transformed\drawerlayout-1.1.1\res
+com.example.cropadvisorai.app-play-services-auth-21.1.1-16 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\res
+com.example.cropadvisorai.app-material-1.13.0-17 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f3c1766c39c2b3160ae2581d8a51d6a\transformed\material-1.13.0\res
+com.example.cropadvisorai.app-startup-runtime-1.1.1-18 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\res
+com.example.cropadvisorai.app-recyclerview-1.2.1-19 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\2d33dd24b375cf0ea6e08a5ec4743e3f\transformed\recyclerview-1.2.1\res
+com.example.cropadvisorai.app-fragment-1.6.2-20 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\3abffcb0fca0d64f1e3b702e3f5956d5\transformed\fragment-1.6.2\res
+com.example.cropadvisorai.app-lifecycle-livedata-core-ktx-2.6.2-21 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\510e13429d4f4011896b5dc32281f022\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.cropadvisorai.app-play-services-basement-18.4.0-22 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\res
+com.example.cropadvisorai.app-biometric-1.1.0-23 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\res
+com.example.cropadvisorai.app-firebase-common-21.0.0-24 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\res
+com.example.cropadvisorai.app-play-services-base-18.5.0-25 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\res
+com.example.cropadvisorai.app-graphics-shapes-release-26 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\71e75aaae1201c2a72968de469e11754\transformed\graphics-shapes-release\res
+com.example.cropadvisorai.app-viewpager2-1.0.0-27 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\7473a1a0081d185b25a0741ee9746195\transformed\viewpager2-1.0.0\res
+com.example.cropadvisorai.app-browser-1.4.0-28 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\8e66a9ddec1e6378ab9ac1cee1d99ebc\transformed\browser-1.4.0\res
+com.example.cropadvisorai.app-lifecycle-viewmodel-savedstate-2.6.2-29 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\93182b58f422541dc837acd6974014e0\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.cropadvisorai.app-profileinstaller-1.4.0-30 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\res
+com.example.cropadvisorai.app-appcompat-1.7.1-31 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\951dc4d80038bb4b6c7f244970faaa90\transformed\appcompat-1.7.1\res
+com.example.cropadvisorai.app-appcompat-resources-1.7.1-32 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\971c4c1306d8e472231f6c657d64b8e0\transformed\appcompat-resources-1.7.1\res
+com.example.cropadvisorai.app-coordinatorlayout-1.1.0-33 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9ba006101687855edf8009a76d85a8b6\transformed\coordinatorlayout-1.1.0\res
+com.example.cropadvisorai.app-lifecycle-viewmodel-ktx-2.6.2-34 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9cfa60aff9ce4d5a68d35d710a66905d\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.cropadvisorai.app-lifecycle-process-2.6.2-35 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\res
+com.example.cropadvisorai.app-lifecycle-runtime-ktx-2.6.2-36 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9eb5067eed9a3c61b13bba7ae4e5e7ed\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.cropadvisorai.app-activity-ktx-1.11.0-37 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f69d43b205ac9e571e73ecb12ab04d5\transformed\activity-ktx-1.11.0\res
+com.example.cropadvisorai.app-core-1.17.0-38 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\res
+com.example.cropadvisorai.app-savedstate-ktx-1.2.1-39 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a027b0f40c25f2ad7af444b0c0cea835\transformed\savedstate-ktx-1.2.1\res
+com.example.cropadvisorai.app-fragment-ktx-1.6.2-40 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a0e5bc181462dba5e3c4eb11d8f635f8\transformed\fragment-ktx-1.6.2\res
+com.example.cropadvisorai.app-cardview-1.0.0-41 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a7e4a035004e12c00861e5f78efdc903\transformed\cardview-1.0.0\res
+com.example.cropadvisorai.app-core-runtime-2.2.0-42 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5318de4b510d2ab0f5757c37a2a881c\transformed\core-runtime-2.2.0\res
+com.example.cropadvisorai.app-constraintlayout-2.2.1-43 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5775509811d95f7be1ad8560e19da1c\transformed\constraintlayout-2.2.1\res
+com.example.cropadvisorai.app-emoji2-views-helper-1.3.0-44 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b57a7564c7875776c4e3a83ddb8f10d3\transformed\emoji2-views-helper-1.3.0\res
+com.example.cropadvisorai.app-core-ktx-1.17.0-45 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c0b45c24901fcc22cc4aa0df1111bd76\transformed\core-ktx-1.17.0\res
+com.example.cropadvisorai.app-credentials-play-services-auth-1.5.0-46 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\res
+com.example.cropadvisorai.app-lifecycle-runtime-2.6.2-47 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c536fdb5737a7f3b1b093acb79562b96\transformed\lifecycle-runtime-2.6.2\res
+com.example.cropadvisorai.app-tracing-1.2.0-48 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c6030071558033e68f5f879823e0dd37\transformed\tracing-1.2.0\res
+com.example.cropadvisorai.app-core-common-2.0.3-49 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\res
+com.example.cropadvisorai.app-activity-1.11.0-50 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\daa29672e9d9339562e54a73ca4c8899\transformed\activity-1.11.0\res
+com.example.cropadvisorai.app-savedstate-1.2.1-51 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0d3e69f3127228a91f6983e847891de\transformed\savedstate-1.2.1\res
+com.example.cropadvisorai.app-annotation-experimental-1.4.1-52 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f4d8b53d6cfdd668af9679f40486bd64\transformed\annotation-experimental-1.4.1\res
+com.example.cropadvisorai.app-core-viewtree-1.0.0-53 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f5463bd6b75901f314826d5745fb5aee\transformed\core-viewtree-1.0.0\res
+com.example.cropadvisorai.app-credentials-1.5.0-54 E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\fa7d509228afd3c88c3705840c29b7ec\transformed\credentials-1.5.0\res

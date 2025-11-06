@@ -1,146 +1,174 @@
 [
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_home.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_home.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_activity_result.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\activity_result.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_agri_expert.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_agri_expert.png"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\xml\\backup_rules.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_dialog_add_agri_item.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\dialog_add_agri_item.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_map.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_map.png"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_map2.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_map2.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_activity_signup.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\activity_signup.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_fragment_home.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_checklist.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_checklist.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_fragment_agri_checklist.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\fragment_agri_checklist.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_leaf.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_leaf.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_bg_chat_bot.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\bg_chat_bot.xml"
     },
     {
-        "merged": "com.example.cropadvisorai.app-debug-41:/layout_fragment_profile.xml.flat",
-        "source": "com.example.cropadvisorai.app-main-43:/layout/fragment_profile.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_bg_chat_user.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\bg_chat_user.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_fragment_agri_checklist.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\fragment_agri_checklist.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\fragment_home.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\activity_splash.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_fragment_profile.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_launcher_background.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_map.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_map.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_fragment_maps.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\fragment_maps.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_item_agri_checklist.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\item_agri_checklist.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_main_activity_host.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\main_activity_host.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_home.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_home.png"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\xml\\data_extraction_rules.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_profile.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_profile.png"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_main_activity_host.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\main_activity_host.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_fragment_research.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\fragment_research.xml"
+        "merged": "com.example.cropadvisorai.app-debug-5:/layout_fragment_agri_chat.xml.flat",
+        "source": "com.example.cropadvisorai.app-main-7:/layout/fragment_agri_chat.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\menu_bottom_nav_menu.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\menu\\bottom_nav_menu.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_activity_login.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_explore.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_explore.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_activity_splash.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_fragment_agri_chat.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\fragment_agri_chat.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_profile.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_profile.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_map2.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_map2.png"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_leaf.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_leaf.png"
     },
     {
-        "merged": "com.example.cropadvisorai.app-debug-41:/layout_fragment_agri_checklist.xml.flat",
-        "source": "com.example.cropadvisorai.app-main-43:/layout/fragment_agri_checklist.xml"
+        "merged": "com.example.cropadvisorai.app-debug-5:/layout_fragment_profile.xml.flat",
+        "source": "com.example.cropadvisorai.app-main-7:/layout/fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\drawable_ic_agri_expert.png.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\drawable\\ic_agri_expert.png"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_item_message_bot.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\item_message_bot.xml"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\layout_fragment_profile.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\layout\\fragment_profile.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_explore.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_explore.png"
     },
     {
-        "merged": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\CHELSA\\.gradle\\daemon\\8.13\\com.example.cropadvisorai.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_item_message_user.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\item_message_user.xml"
+    },
+    {
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_fragment_agri_chat.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\fragment_agri_chat.xml"
+    },
+    {
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cropadvisorai.app-debug-5:/layout_fragment_agri_checklist.xml.flat",
+        "source": "com.example.cropadvisorai.app-main-7:/layout/fragment_agri_checklist.xml"
+    },
+    {
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_checklist.png.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_checklist.png"
+    },
+    {
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_activity_result.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\xml\\backup_rules.xml"
     }
 ]

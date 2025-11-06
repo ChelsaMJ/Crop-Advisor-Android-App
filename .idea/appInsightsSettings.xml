@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.cropadvisorai" />
+                  <option name="mobileSdkAppId" value="1:7385647033:android:7b259b97b9e27edb11d868" />
+                  <option name="projectId" value="cropadvisorai" />
+                  <option name="projectNumber" value="7385647033" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

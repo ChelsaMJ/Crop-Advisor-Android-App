@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
     <item
         android:id="@+id/nav_home"
         android:icon="@drawable/ic_home"
-        android:title="Advisor" />
+        android:title="Advisor"
+        />
     <item
-        android:id="@+id/nav_explore"
-        android:icon="@drawable/ic_explore"
-        android:title="Research" />
-    <item
-        android:id="@+id/nav_maps"
-        android:icon="@drawable/ic_map"
-        android:title="Maps" />
-
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/ic_agri_expert"
+        android:title="AI Chat" />
     <item
         android:id="@+id/nav_checklist"
         android:icon="@drawable/ic_checklist"

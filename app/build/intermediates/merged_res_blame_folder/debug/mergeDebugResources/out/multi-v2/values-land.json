@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.cropadvisorai.app-mergeDebugResources-39:/values-land/values-land.xml",
+            "outputFile": "com.example.cropadvisorai.app-mergeDebugResources-3:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\CHELSA\\.gradle\\caches\\8.13\\transforms\\4bf89d69f8c5c780b0552f0e17d90af2\\transformed\\appcompat-1.7.1\\res\\values-land\\values-land.xml",
+                    "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\caches\\8.13\\transforms\\951dc4d80038bb4b6c7f244970faaa90\\transformed\\appcompat-1.7.1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\CHELSA\\.gradle\\caches\\8.13\\transforms\\beeb14c4fc2938204b4b1c2d3f684b77\\transformed\\material-1.13.0\\res\\values-land\\values-land.xml",
+                    "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\caches\\8.13\\transforms\\1f3c1766c39c2b3160ae2581d8a51d6a\\transformed\\material-1.13.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,22,31,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

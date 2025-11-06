@@ -11,13 +11,8 @@ import com.example.cropadvisorai.R
 import com.example.cropadvisorai.ResultActivity
 
 class HomeFragment : Fragment() {
-    // host for the fragments, managing the bottom navigation clicks
-    // edit main activity xml?
 
-    // crop input logic
-    // home xml code??
-
-    // UI elements declaration
+    // ======== UI elements ========
     private lateinit var spinnerSoilType: Spinner
     private lateinit var sliderNitrogen: SeekBar
     private lateinit var sliderPh: SeekBar
@@ -32,7 +27,7 @@ class HomeFragment : Fragment() {
     private lateinit var tvRainfallValue: TextView
     private lateinit var tvHumidityValue: TextView
 
-    // Data collection variables
+    // ======== Data defaults ========
     private var nitrogenValue: Int = 50
     private var phValue: Double = 7.0
     private var tempValue: Int = 25
@@ -42,13 +37,18 @@ class HomeFragment : Fragment() {
 
     private val soilTypes = arrayOf("Loamy", "Sandy", "Clay", "Silt", "Peat")
 
+    // ======== API KEY (set here for now) ========
+    // Replace with BuildConfig.AI_API_KEY or other safe retrieval for production.
+    // You said "i will give api key again" — put it here as a string, or set it to "" to disable.
+    private val apiKeyForThisRun: String = "AIzaSyC9Nq-PRx4pmdau5B_gREf4L6l9-q6C0Q4" // <-- put your API key here, or leave blank to test UI only
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         val view = inflater.inflate(R.layout.fragment_home, container, false)
 
-        // Initialize UI components from the inflated view
+        // Initialize UI components
         spinnerSoilType = view.findViewById(R.id.spinnerSoilType)
         sliderNitrogen = view.findViewById(R.id.sliderNitrogen)
         sliderPh = view.findViewById(R.id.sliderPh)
@@ -63,7 +63,7 @@ class HomeFragment : Fragment() {
         tvRainfallValue = view.findViewById(R.id.tvRainfallValue)
         tvHumidityValue = view.findViewById(R.id.tvHumidityValue)
 
-        // --- Setup Spinner ---
+        // Spinner
         val adapter = ArrayAdapter(requireContext(), android.R.layout.simple_spinner_item, soilTypes)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
         spinnerSoilType.adapter = adapter
@@ -75,7 +75,7 @@ class HomeFragment : Fragment() {
         }
         soilTypeValue = soilTypes[0]
 
-        // --- Setup Sliders ---
+        // SeekBars — set max already in XML; ensure initial text shows current value
         setupSeekBar(sliderNitrogen, tvNitrogenValue, 100) { progress ->
             nitrogenValue = progress
             tvNitrogenValue.text = "$progress%"
@@ -101,9 +101,13 @@ class HomeFragment : Fragment() {
             tvHumidityValue.text = "$progress%"
         }
 
-        // --- Recommendation Button ---
         btnRecommend.setOnClickListener {
-            // Collect all data into a single summary string for the AI prompt
+            // If API key is empty, prevent calling network and warn user (you said you'll provide it)
+            if (apiKeyForThisRun.isBlank()) {
+                Toast.makeText(requireContext(), "API key not provided. Set apiKeyForThisRun in HomeFragment.", Toast.LENGTH_LONG).show()
+                return@setOnClickListener
+            }
+
             val cropInputSummary = """
                 Soil Type: $soilTypeValue,
                 Nitrogen Content: $nitrogenValue%,
@@ -113,25 +117,27 @@ class HomeFragment : Fragment() {
                 Humidity: $humidityValue%
             """.trimIndent()
 
-            // Start the result activity and pass the compiled summary
             val intent = Intent(requireContext(), ResultActivity::class.java).apply {
                 putExtra("inputSummary", cropInputSummary)
+                putExtra("apiKey", apiKeyForThisRun)
             }
             startActivity(intent)
         }
+
         return view
     }
 
     private fun setupSeekBar(seekBar: SeekBar, textView: TextView, max: Int, onProgressChange: (Int) -> Unit) {
         seekBar.max = max
+        // Ensure text reflects initial progress from XML or default
         onProgressChange(seekBar.progress)
 
         seekBar.setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener {
-            override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) {
+            override fun onProgressChanged(sb: SeekBar?, progress: Int, fromUser: Boolean) {
                 onProgressChange(progress)
             }
-            override fun onStartTrackingTouch(seekBar: SeekBar?) {}
-            override fun onStopTrackingTouch(seekBar: SeekBar?) {}
+            override fun onStartTrackingTouch(sb: SeekBar?) {}
+            override fun onStopTrackingTouch(sb: SeekBar?) {}
         })
     }
 }

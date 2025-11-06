@@ -1,54 +1,77 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-45:12
-MERGED from [com.google.android.material:material:1.13.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\beeb14c4fc2938204b4b1c2d3f684b77\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d74e46f4f94c76314d3152cb7fccaa3c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ffc93ec422c5f71378bae0324a72d9ab\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\4bf89d69f8c5c780b0552f0e17d90af2\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\17ef49de859cc030fcc87215ae8e1622\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e9f973cf059dc1951a8b036b98021379\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ff4a94234ade456d0d32b91d81593965\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.11.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b89ba4c7592faa759a49b9fa24bc2a34\transformed\activity-ktx-1.11.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.11.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\0b0fe4097707e620e7f748c6af8826ae\transformed\activity-1.11.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b85b9cb5a9d36009ce7c1698c960cbe1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3454cc694d424fa809d5be968effad78\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\1a24c271c55a20ecf66dfcf8c0b29566\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.5.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e245ea1eb2e6dec1065f10ad0f2dd955\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\19e169b7025331df55446548c75014d7\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\cafa93d4006c4654d8c034a8b72180ef\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\5c1e63073c34669fb273b5e7421ce41e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\6896cb9da353551c167774da3ec93a19\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\8b692e625cb1dd1acf71f4b7495a25cb\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\aec9c9937bd71d5a88ee8d68c95a8b0a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\adbd790b1b425437763c7a5c086b53a8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ea0a0ef7fa5859970c72eb404b78a025\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\5e6a5604439cb2ea4ef2cae4aa9d9438\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\01d5159b31d05ad806f63b5590acd630\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\57581cf12615cf33458a8231b2bec4c3\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d70a1a43cb8ff85494c3ad248374125b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\600876816feffb3751309545a8ea69b3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\41dadd743ed5d85b9bf24f12d08d9376\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\a3685d23b4cdc091e31409478c15c33a\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\f72f29b2fcfb246a07089156df974b1e\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\244defba95c998e82eb5bf678f1a2c09\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d760f29633c83115000948ffbbbe1c94\transformed\graphics-shapes-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\cd5d8092e9ec614dbf328cd7b31c731d\transformed\core-ktx-1.17.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\fb31f5878144cc730529c68ca3625605\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\83e86b00259b4e16ec1ae1ea7414bb1f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\59138d1aef44a1da4905b0604187bc00\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f301c740b9818b299a9a461c2ad38c4\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\0c4c909225626294f5aba3f93d81041f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\c4f0819866478ae3eef8e30043c372ea\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d653825f760a2470b9d2df343baa7516\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b0c3ea8f4b378585d52e158f63cefabd\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.google.android.material:material:1.13.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f3c1766c39c2b3160ae2581d8a51d6a\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5775509811d95f7be1ad8560e19da1c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\971c4c1306d8e472231f6c657d64b8e0\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:17:1-52:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d63b885412f07a84c8ff2ed11c870c1a\transformed\googleid-1.1.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\fa7d509228afd3c88c3705840c29b7ec\transformed\credentials-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.biometric:biometric:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\951dc4d80038bb4b6c7f244970faaa90\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a0e5bc181462dba5e3c4eb11d8f635f8\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\7473a1a0081d185b25a0741ee9746195\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d306172bf286a438f35061813a60c728\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\72fc3eb88ca437d5f1a33df8768f3dcc\transformed\integrity-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b96072d90c98f5a500ecd2196094b065\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ccba5b7891a1f7b1d8b7c186d4f36e44\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\42e27709e4a7a6d764e5763c6e8e45f3\transformed\play-services-auth-blockstore-16.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\92d4bd48c34c15cb4ef52a68afd05bf9\transformed\play-services-fido-21.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha02] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\bdf8775bea1f1df9db926017c81c83cb\transformed\play-services-identity-credentials-16.0.0-alpha02\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ff537b44768833cd1a297779449c196b\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b57a7564c7875776c4e3a83ddb8f10d3\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1eaf86cb0ab3d96d62685739f36f9c14\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9ba006101687855edf8009a76d85a8b6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\16df60393f2524f8b85bcc26fb302916\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\02f76573a9a109d2fe7c554de10648a0\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\2d33dd24b375cf0ea6e08a5ec4743e3f\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\5891337486cb44263610eb096eae915e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a283cbf2cf938fb22d01675910b41f94\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\8e66a9ddec1e6378ab9ac1cee1d99ebc\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a7d84708d0b8ad219d0b66aeda838379\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\01ad672daeaecc49cc4ba243c97e582e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\152f9cfd7dc7ae306a10ef924f5e1f69\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-ktx:1.11.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f69d43b205ac9e571e73ecb12ab04d5\transformed\activity-ktx-1.11.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a027b0f40c25f2ad7af444b0c0cea835\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0bb48f3fb4804821e866d63020f192d6\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0470ae57e927c1bb2604ab77da82ca2e\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9cfa60aff9ce4d5a68d35d710a66905d\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1636526c693545468f8237492965a6a7\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\510e13429d4f4011896b5dc32281f022\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\93182b58f422541dc837acd6974014e0\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0d3e69f3127228a91f6983e847891de\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c536fdb5737a7f3b1b093acb79562b96\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9eb5067eed9a3c61b13bba7ae4e5e7ed\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\65276f5d0a7371984c162b3c3ca7cda4\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\3abffcb0fca0d64f1e3b702e3f5956d5\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.11.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\daa29672e9d9339562e54a73ca4c8899\transformed\activity-1.11.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\71e75aaae1201c2a72968de469e11754\transformed\graphics-shapes-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c0b45c24901fcc22cc4aa0df1111bd76\transformed\core-ktx-1.17.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f5463bd6b75901f314826d5745fb5aee\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e2589d1e062842d0ae77125220ec256a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a7e4a035004e12c00861e5f78efdc903\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f9788273ffaaa95e7ff93ffc625fc4e5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ababc86467252f7d40db451fb9651a00\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c6030071558033e68f5f879823e0dd37\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\464106761bba489047bacf65e80f03e1\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e0bbae422bd18ae63b3ab09739b5fcff\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5318de4b510d2ab0f5757c37a2a881c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f4d8b53d6cfdd668af9679f40486bd64\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
 	package
 		INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -61,10 +84,18 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\CHELSA\
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
 	android:name
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
 	android:name
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
@@ -84,28 +115,54 @@ ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\s
 	android:name
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:17:22-74
 application
-ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:19:5-43:19
-INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:19:5-43:19
-MERGED from [com.google.android.material:material:1.13.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\beeb14c4fc2938204b4b1c2d3f684b77\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.13.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\beeb14c4fc2938204b4b1c2d3f684b77\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d74e46f4f94c76314d3152cb7fccaa3c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d74e46f4f94c76314d3152cb7fccaa3c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\c4f0819866478ae3eef8e30043c372ea\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\c4f0819866478ae3eef8e30043c372ea\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:19:5-54:19
+INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:19:5-54:19
+MERGED from [com.google.android.material:material:1.13.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f3c1766c39c2b3160ae2581d8a51d6a\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f3c1766c39c2b3160ae2581d8a51d6a\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5775509811d95f7be1ad8560e19da1c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5775509811d95f7be1ad8560e19da1c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:23:5-50:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:23:5-50:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\72fc3eb88ca437d5f1a33df8768f3dcc\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\72fc3eb88ca437d5f1a33df8768f3dcc\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b96072d90c98f5a500ecd2196094b065\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b96072d90c98f5a500ecd2196094b065\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ccba5b7891a1f7b1d8b7c186d4f36e44\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ccba5b7891a1f7b1d8b7c186d4f36e44\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\42e27709e4a7a6d764e5763c6e8e45f3\transformed\play-services-auth-blockstore-16.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\42e27709e4a7a6d764e5763c6e8e45f3\transformed\play-services-auth-blockstore-16.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\92d4bd48c34c15cb4ef52a68afd05bf9\transformed\play-services-fido-21.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\92d4bd48c34c15cb4ef52a68afd05bf9\transformed\play-services-fido-21.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\65276f5d0a7371984c162b3c3ca7cda4\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\65276f5d0a7371984c162b3c3ca7cda4\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e0bbae422bd18ae63b3ab09739b5fcff\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e0bbae422bd18ae63b3ab09739b5fcff\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
 		INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
@@ -113,9 +170,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CH
 	android:fullBackupContent
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:22:9-54
 	android:roundIcon
-		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:25:9-54
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:25:9-53
 	android:icon
-		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:23:9-48
 	android:allowBackup
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
@@ -128,213 +185,457 @@ ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\s
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:30:13-36
 	android:name
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:29:13-43
-activity#com.example.cropadvisorai.SplashActivity
-ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:31:9-33:39
+activity#com.example.cropadvisorai.LoginActivity
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:31:9-39:20
 	android:exported
 		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:33:13-36
 	android:name
-		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:32:13-43
-activity#com.example.cropadvisorai.MainActivity
-ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:34:9-42:20
-	android:exported
-		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:36:13-36
-	android:name
-		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:35:13-41
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:32:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:37:13-41:29
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:40:17-77
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:40:27-74
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.cropadvisorai.SignupActivity
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:40:9-42:39
+	android:exported
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:41:13-43
+activity#com.example.cropadvisorai.SplashActivity
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:43:9-48:20
+	android:exported
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:44:13-43
+activity#com.example.cropadvisorai.MainActivity
+ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:exported
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:51:13-36
+	android:name
+		ADDED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml:50:13-41
 uses-sdk
 INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml
 INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.13.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\beeb14c4fc2938204b4b1c2d3f684b77\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.13.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\beeb14c4fc2938204b4b1c2d3f684b77\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d74e46f4f94c76314d3152cb7fccaa3c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d74e46f4f94c76314d3152cb7fccaa3c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ffc93ec422c5f71378bae0324a72d9ab\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ffc93ec422c5f71378bae0324a72d9ab\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\4bf89d69f8c5c780b0552f0e17d90af2\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\4bf89d69f8c5c780b0552f0e17d90af2\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\17ef49de859cc030fcc87215ae8e1622\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\17ef49de859cc030fcc87215ae8e1622\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e9f973cf059dc1951a8b036b98021379\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e9f973cf059dc1951a8b036b98021379\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ff4a94234ade456d0d32b91d81593965\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ff4a94234ade456d0d32b91d81593965\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.11.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b89ba4c7592faa759a49b9fa24bc2a34\transformed\activity-ktx-1.11.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.11.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b89ba4c7592faa759a49b9fa24bc2a34\transformed\activity-ktx-1.11.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.11.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\0b0fe4097707e620e7f748c6af8826ae\transformed\activity-1.11.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.11.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\0b0fe4097707e620e7f748c6af8826ae\transformed\activity-1.11.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b85b9cb5a9d36009ce7c1698c960cbe1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b85b9cb5a9d36009ce7c1698c960cbe1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3454cc694d424fa809d5be968effad78\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3454cc694d424fa809d5be968effad78\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\1a24c271c55a20ecf66dfcf8c0b29566\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\1a24c271c55a20ecf66dfcf8c0b29566\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.5.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e245ea1eb2e6dec1065f10ad0f2dd955\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.transition:transition:1.5.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e245ea1eb2e6dec1065f10ad0f2dd955\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\19e169b7025331df55446548c75014d7\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\19e169b7025331df55446548c75014d7\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\cafa93d4006c4654d8c034a8b72180ef\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\cafa93d4006c4654d8c034a8b72180ef\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\5c1e63073c34669fb273b5e7421ce41e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\5c1e63073c34669fb273b5e7421ce41e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\6896cb9da353551c167774da3ec93a19\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\6896cb9da353551c167774da3ec93a19\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\8b692e625cb1dd1acf71f4b7495a25cb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\8b692e625cb1dd1acf71f4b7495a25cb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\aec9c9937bd71d5a88ee8d68c95a8b0a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\aec9c9937bd71d5a88ee8d68c95a8b0a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\adbd790b1b425437763c7a5c086b53a8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\adbd790b1b425437763c7a5c086b53a8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ea0a0ef7fa5859970c72eb404b78a025\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\ea0a0ef7fa5859970c72eb404b78a025\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\5e6a5604439cb2ea4ef2cae4aa9d9438\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\5e6a5604439cb2ea4ef2cae4aa9d9438\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\01d5159b31d05ad806f63b5590acd630\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\01d5159b31d05ad806f63b5590acd630\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\57581cf12615cf33458a8231b2bec4c3\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\57581cf12615cf33458a8231b2bec4c3\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d70a1a43cb8ff85494c3ad248374125b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d70a1a43cb8ff85494c3ad248374125b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\600876816feffb3751309545a8ea69b3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\600876816feffb3751309545a8ea69b3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\41dadd743ed5d85b9bf24f12d08d9376\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\41dadd743ed5d85b9bf24f12d08d9376\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\a3685d23b4cdc091e31409478c15c33a\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\a3685d23b4cdc091e31409478c15c33a\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\f72f29b2fcfb246a07089156df974b1e\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\f72f29b2fcfb246a07089156df974b1e\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\244defba95c998e82eb5bf678f1a2c09\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\244defba95c998e82eb5bf678f1a2c09\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d760f29633c83115000948ffbbbe1c94\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d760f29633c83115000948ffbbbe1c94\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\cd5d8092e9ec614dbf328cd7b31c731d\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\cd5d8092e9ec614dbf328cd7b31c731d\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\fb31f5878144cc730529c68ca3625605\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\fb31f5878144cc730529c68ca3625605\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\83e86b00259b4e16ec1ae1ea7414bb1f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\83e86b00259b4e16ec1ae1ea7414bb1f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\59138d1aef44a1da4905b0604187bc00\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\59138d1aef44a1da4905b0604187bc00\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f301c740b9818b299a9a461c2ad38c4\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f301c740b9818b299a9a461c2ad38c4\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\0c4c909225626294f5aba3f93d81041f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\0c4c909225626294f5aba3f93d81041f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\c4f0819866478ae3eef8e30043c372ea\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\c4f0819866478ae3eef8e30043c372ea\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d653825f760a2470b9d2df343baa7516\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\d653825f760a2470b9d2df343baa7516\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b0c3ea8f4b378585d52e158f63cefabd\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b0c3ea8f4b378585d52e158f63cefabd\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.13.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f3c1766c39c2b3160ae2581d8a51d6a\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f3c1766c39c2b3160ae2581d8a51d6a\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5775509811d95f7be1ad8560e19da1c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5775509811d95f7be1ad8560e19da1c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\971c4c1306d8e472231f6c657d64b8e0\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\971c4c1306d8e472231f6c657d64b8e0\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d63b885412f07a84c8ff2ed11c870c1a\transformed\googleid-1.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d63b885412f07a84c8ff2ed11c870c1a\transformed\googleid-1.1.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\fa7d509228afd3c88c3705840c29b7ec\transformed\credentials-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\fa7d509228afd3c88c3705840c29b7ec\transformed\credentials-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.7.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\951dc4d80038bb4b6c7f244970faaa90\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\951dc4d80038bb4b6c7f244970faaa90\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a0e5bc181462dba5e3c4eb11d8f635f8\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a0e5bc181462dba5e3c4eb11d8f635f8\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\7473a1a0081d185b25a0741ee9746195\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\7473a1a0081d185b25a0741ee9746195\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d306172bf286a438f35061813a60c728\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d306172bf286a438f35061813a60c728\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\72fc3eb88ca437d5f1a33df8768f3dcc\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\72fc3eb88ca437d5f1a33df8768f3dcc\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b96072d90c98f5a500ecd2196094b065\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b96072d90c98f5a500ecd2196094b065\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ccba5b7891a1f7b1d8b7c186d4f36e44\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ccba5b7891a1f7b1d8b7c186d4f36e44\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\42e27709e4a7a6d764e5763c6e8e45f3\transformed\play-services-auth-blockstore-16.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-blockstore:16.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\42e27709e4a7a6d764e5763c6e8e45f3\transformed\play-services-auth-blockstore-16.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\92d4bd48c34c15cb4ef52a68afd05bf9\transformed\play-services-fido-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\92d4bd48c34c15cb4ef52a68afd05bf9\transformed\play-services-fido-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha02] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\bdf8775bea1f1df9db926017c81c83cb\transformed\play-services-identity-credentials-16.0.0-alpha02\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity-credentials:16.0.0-alpha02] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\bdf8775bea1f1df9db926017c81c83cb\transformed\play-services-identity-credentials-16.0.0-alpha02\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ff537b44768833cd1a297779449c196b\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ff537b44768833cd1a297779449c196b\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b57a7564c7875776c4e3a83ddb8f10d3\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b57a7564c7875776c4e3a83ddb8f10d3\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1eaf86cb0ab3d96d62685739f36f9c14\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1eaf86cb0ab3d96d62685739f36f9c14\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9ba006101687855edf8009a76d85a8b6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9ba006101687855edf8009a76d85a8b6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\16df60393f2524f8b85bcc26fb302916\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\16df60393f2524f8b85bcc26fb302916\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\02f76573a9a109d2fe7c554de10648a0\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\02f76573a9a109d2fe7c554de10648a0\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\2d33dd24b375cf0ea6e08a5ec4743e3f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\2d33dd24b375cf0ea6e08a5ec4743e3f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\5891337486cb44263610eb096eae915e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\5891337486cb44263610eb096eae915e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a283cbf2cf938fb22d01675910b41f94\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a283cbf2cf938fb22d01675910b41f94\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\8e66a9ddec1e6378ab9ac1cee1d99ebc\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\8e66a9ddec1e6378ab9ac1cee1d99ebc\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a7d84708d0b8ad219d0b66aeda838379\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a7d84708d0b8ad219d0b66aeda838379\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\01ad672daeaecc49cc4ba243c97e582e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\01ad672daeaecc49cc4ba243c97e582e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\152f9cfd7dc7ae306a10ef924f5e1f69\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\152f9cfd7dc7ae306a10ef924f5e1f69\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f69d43b205ac9e571e73ecb12ab04d5\transformed\activity-ktx-1.11.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f69d43b205ac9e571e73ecb12ab04d5\transformed\activity-ktx-1.11.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a027b0f40c25f2ad7af444b0c0cea835\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a027b0f40c25f2ad7af444b0c0cea835\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0bb48f3fb4804821e866d63020f192d6\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0bb48f3fb4804821e866d63020f192d6\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0470ae57e927c1bb2604ab77da82ca2e\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0470ae57e927c1bb2604ab77da82ca2e\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9cfa60aff9ce4d5a68d35d710a66905d\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9cfa60aff9ce4d5a68d35d710a66905d\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1636526c693545468f8237492965a6a7\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1636526c693545468f8237492965a6a7\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\510e13429d4f4011896b5dc32281f022\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\510e13429d4f4011896b5dc32281f022\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\93182b58f422541dc837acd6974014e0\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\93182b58f422541dc837acd6974014e0\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0d3e69f3127228a91f6983e847891de\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0d3e69f3127228a91f6983e847891de\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c536fdb5737a7f3b1b093acb79562b96\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c536fdb5737a7f3b1b093acb79562b96\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9eb5067eed9a3c61b13bba7ae4e5e7ed\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9eb5067eed9a3c61b13bba7ae4e5e7ed\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\65276f5d0a7371984c162b3c3ca7cda4\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\65276f5d0a7371984c162b3c3ca7cda4\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\3abffcb0fca0d64f1e3b702e3f5956d5\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\3abffcb0fca0d64f1e3b702e3f5956d5\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.11.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\daa29672e9d9339562e54a73ca4c8899\transformed\activity-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.11.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\daa29672e9d9339562e54a73ca4c8899\transformed\activity-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\71e75aaae1201c2a72968de469e11754\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\71e75aaae1201c2a72968de469e11754\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c0b45c24901fcc22cc4aa0df1111bd76\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c0b45c24901fcc22cc4aa0df1111bd76\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f5463bd6b75901f314826d5745fb5aee\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f5463bd6b75901f314826d5745fb5aee\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e2589d1e062842d0ae77125220ec256a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e2589d1e062842d0ae77125220ec256a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a7e4a035004e12c00861e5f78efdc903\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\a7e4a035004e12c00861e5f78efdc903\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f9788273ffaaa95e7ff93ffc625fc4e5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f9788273ffaaa95e7ff93ffc625fc4e5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ababc86467252f7d40db451fb9651a00\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\ababc86467252f7d40db451fb9651a00\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c6030071558033e68f5f879823e0dd37\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c6030071558033e68f5f879823e0dd37\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\464106761bba489047bacf65e80f03e1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\464106761bba489047bacf65e80f03e1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e0bbae422bd18ae63b3ab09739b5fcff\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\e0bbae422bd18ae63b3ab09739b5fcff\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5318de4b510d2ab0f5757c37a2a881c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\b5318de4b510d2ab0f5757c37a2a881c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f4d8b53d6cfdd668af9679f40486bd64\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f4d8b53d6cfdd668af9679f40486bd64\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
 		INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\CropAdvisorAI\app\src\main\AndroidManifest.xml
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3f0b15eec17aad68378abcd32def83a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:33:13-44
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:34:13-72
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
-meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\bf5d98cece2364dfa7d4f1c038ebf4d1\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:38:17-76
 	android:name
-		ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
-permission#com.example.cropadvisorai.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:39:17-78
 	android:name
-		ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
-uses-permission#com.example.cropadvisorai.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.17.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\3da6e138f41a33f36e06b031f9a0dbf9\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\CHELSA\.gradle\caches\8.13\transforms\e0dd0f8f2d5f78e2d936902c8de7ae55\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
-	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:51:13-44
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
-	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\4a137b834834c15ee32a9ce07f81ddf1\transformed\firebase-auth-24.0.1\AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:35:13-76
+activity#androidx.credentials.playservices.IdentityCredentialApiHiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:42:9-49:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:47:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:46:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:44:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:48:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\c2a3ce057322fb59a8ebd6368d3d906c\transformed\credentials-play-services-auth-1.5.0\AndroidManifest.xml:43:13-97
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53dc5bccfdb2054f563a15553126c2ea\transformed\biometric-1.1.0\AndroidManifest.xml:27:22-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\1f2e1c9fd6ad35a1aaac0f1738d4e509\transformed\play-services-auth-21.1.1\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\f0138b1efe4f8cc91921fd2688d7c8f9\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:22-95
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\55c9e4b233bbb0e4c16dbcd7c568de31\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\613ac536fa13139f2f7b7691fdae3eb1\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\202ce64be0b93731dfa6b8d4760a4c18\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\0953d3668e06129c9924418ba6dd5ab5\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+permission#com.example.cropadvisorai.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.cropadvisorai.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9f72decb4dc161099012d8d6fce056b4\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\9db80e85b59db5e12fd2c4c2a264f70c\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\53ab83e0af8ae9f546a983227df9b1b3\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHELSA\.gradle\caches\8.13\transforms\b27e956805398ec6addbff5bcbedd3e8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\935dfc5517f6196baa5ffdd640c96192\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] E:\NOTES COMPLETE\Notes stuff\sem 7 notes\cse 227\caches\8.13\transforms\d4f3d8b98add528f5ea247e41eafe584\transformed\core-common-2.0.3\AndroidManifest.xml:15:13-93

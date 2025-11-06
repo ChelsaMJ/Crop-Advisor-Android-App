@@ -5,11 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.example.cropadvisorai.ui.HomeFragment
-import com.example.cropadvisorai.ui.AgriChatFragmentLogic
+import com.example.cropadvisorai.ui.AgriChatFragment
 import com.example.cropadvisorai.ui.AgriChecklistFragment
 import com.example.cropadvisorai.ui.ProfileFragment // Assuming this is simplified
-import com.example.cropadvisorai.ui.ResearchFragment // Renamed Explore/Research
-// removed gms import
 
 class MainActivity : AppCompatActivity() {
 
@@ -29,11 +27,10 @@ class MainActivity : AppCompatActivity() {
         // Setup Bottom Navigation Listener
         bottomNavigationView.setOnItemSelectedListener { item ->
             val selectedFragment: Fragment = when (item.itemId) {
-                R.id.nav_home -> HomeFragment() // Crop Advisor Input
-                R.id.nav_explore -> ResearchFragment() // Resources/Explore
-                R.id.nav_maps -> AgriChatFragmentLogic() // Using Chat as the 3rd item for now
+                R.id.nav_home -> HomeFragment()
+                R.id.nav_chat -> AgriChatFragment()
+                R.id.nav_checklist -> AgriChecklistFragment()
                 R.id.nav_profile -> ProfileFragment()
-                R.id.nav_checklist -> AgriChecklistFragment() // Separate Checklist Item
                 else -> HomeFragment()
             }
             loadFragment(selectedFragment)

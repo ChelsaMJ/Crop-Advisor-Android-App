@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/checklist_root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:padding="16dp"
-    android:background="@color/white">
+    android:padding="30dp">
 
     <TextView
-        android:id="@+id/titleText"
-        android:layout_width="wrap_content"
+        android:id="@+id/headerText"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Crop Management To-Dos"
-        android:textSize="22sp"
+        android:text="Reminders / To-Do"
+        android:textSize="28sp"
         android:textStyle="bold"
         android:textColor="@color/green_700"
-        android:layout_alignParentTop="true"
-        android:layout_marginBottom="8dp" />
-
-    <TextView
-        android:id="@+id/subtitleText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/titleText"
-        android:text="subtitle"
-        android:textSize="14sp"
-        android:textColor="#666666"
-        android:layout_marginBottom="16dp" />
+        android:paddingBottom="8dp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/checklistRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/subtitleText"
-        android:layout_above="@id/fab_add_agri"
+        android:layout_marginTop="36dp"
         android:clipToPadding="false"
         android:paddingBottom="80dp" />
 
@@ -40,12 +29,10 @@
         android:id="@+id/fab_add_agri"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
+        android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
-        android:contentDescription="Add Task"
-        android:src="@drawable/ic_checklist"
-        app:tint="@android:color/white"
-        android:backgroundTint="@color/green_700"/>
+        android:contentDescription="Add"
+        android:src="@android:drawable/ic_input_add"
+        app:backgroundTint="@color/green_700" />
 
-</RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

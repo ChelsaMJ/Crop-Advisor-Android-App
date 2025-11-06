@@ -3,6 +3,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
     // IMPORTANT: Add the KAPT plugin for future Room database integration (Unit IV)
     kotlin("kapt")
+    alias(libs.plugins.google.gms.google.services)
 }
 
 android {
@@ -55,7 +56,13 @@ dependencies {
     // --- AI Integration (Retrofit/Gemini API) ---
     implementation(libs.retrofit.core)
     implementation(libs.retrofit.converter.gson)
-    implementation(libs.okhttp.logging) // Optional but helpful for debugging network calls
+    implementation(libs.okhttp.logging)
+    implementation(libs.firebase.auth)
+    implementation(libs.androidx.credentials)
+    implementation(libs.androidx.credentials.play.services.auth)
+    implementation(libs.googleid) // Optional but helpful for debugging network calls
+
+
 
     // --- Syllabus Requirement: Room (Unit IV - Placeholder for future implementation) ---
     // implementation("androidx.room:room-runtime:2.6.0")

@@ -6,12 +6,21 @@
     <color name="green_700">#2E7D32</color>
     <color name="white">#FFFFFF</color>
     <string name="app_name">CropAdvisorAI</string>
+    <string name="gcm_defaultSenderId" translatable="false">7385647033</string>
+    <string name="google_api_key" translatable="false">AIzaSyBeUGSe22aErU5o27wO93LUyrCh2Peq-SI</string>
+    <string name="google_app_id" translatable="false">1:7385647033:android:7b259b97b9e27edb11d868</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBeUGSe22aErU5o27wO93LUyrCh2Peq-SI</string>
+    <string name="google_storage_bucket" translatable="false">cropadvisorai.firebasestorage.app</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Log out</string>
+    <string name="no_name">No name available</string>
+    <string name="not_signed_in">Not signed in</string>
+    <string name="project_id" translatable="false">cropadvisorai</string>
+    <string name="sign_in">Sign in / Sign up</string>
     <style name="RoundedImage" parent="">
         <item name="cornerFamily">rounded</item>
         <item name="cornerSize">50%</item>
     </style>
     <style name="Theme.CropAdvisorAI" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="android:statusBarColor">@color/green_700</item>
     </style>
 </resources>
