@@ -16,7 +16,8 @@
         android:textSize="28sp"
         android:textStyle="bold"
         android:textColor="@color/green_700"
-        android:paddingBottom="8dp" />
+        android:paddingBottom="8dp"
+        android:layout_marginTop="20dp"/>
 
     <TextView
         android:id="@+id/statusText"

@@ -92,16 +92,16 @@
         "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.cropadvisorai.app-debug-5:/layout_item_agri_checklist.xml.flat",
+        "source": "com.example.cropadvisorai.app-main-7:/layout/item_agri_checklist.xml"
+    },
+    {
         "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
         "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\menu_bottom_nav_menu.xml.flat",
         "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\menu\\bottom_nav_menu.xml"
-    },
-    {
-        "merged": "com.example.cropadvisorai.app-debug-5:/layout_fragment_agri_chat.xml.flat",
-        "source": "com.example.cropadvisorai.app-main-7:/layout/fragment_agri_chat.xml"
     },
     {
         "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_activity_login.xml.flat",
@@ -122,10 +122,6 @@
     {
         "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\drawable_ic_leaf.png.flat",
         "source": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-main-7:\\drawable\\ic_leaf.png"
-    },
-    {
-        "merged": "com.example.cropadvisorai.app-debug-5:/layout_fragment_profile.xml.flat",
-        "source": "com.example.cropadvisorai.app-main-7:/layout/fragment_profile.xml"
     },
     {
         "merged": "E:\\NOTES COMPLETE\\Notes stuff\\sem 7 notes\\cse 227\\daemon\\8.13\\com.example.cropadvisorai.app-debug-5:\\layout_item_message_bot.xml.flat",
