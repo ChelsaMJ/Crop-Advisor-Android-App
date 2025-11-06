@@ -34,7 +34,7 @@ class AgriChatFragment : Fragment() {
     // This code expects Retrofit service method signature:
     // RetrofitClient.apiService.generateContent(apiKey, geminiRequest)
     private val apiKey: String
-        get() = "AIzaSyC9Nq-PRx4pmdau5B_gREf4L6l9-q6C0Q4" // TODO: Put your API key here temporarily or use BuildConfig.AI_API_KEY
+        get() = "" // TODO: Put your API key here temporarily or use BuildConfig.AI_API_KEY
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
